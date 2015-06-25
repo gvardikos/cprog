@@ -1,0 +1,10 @@
+ID	Site	Region	Subloc	Authour1	Authour2	Anlcol	Title	Journal	Volume	Year	Pages	
+1	Abai	Phokis				Diodoros xvi						
+2	Abai	Phokis				Herodotos i, 46						
+3	Abai	Phokis				Herodotos viii, 33						
+4	Abai	Phokis				Pausanias iv, 32, 5						
+5	Abai	Phokis				Pausanias x, 35						
+6	Abai	Phokis				Strabo x						
+7	Abai	Phokis		Leake, W.M.			 Travels in Northern Greece II, pp. 163 ff.					
+8	Abdera	Thrace				Apollodoros ii						
+9	Abdera	Thrace				Diodoros xii, 72						
